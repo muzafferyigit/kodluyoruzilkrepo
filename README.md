@@ -33,4 +33,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[PATİKA ADRESİM](https://app.patika.dev/mcanyigit)
+
+[PATİKA profilim](https://app.patika.dev/mcanyigit)
